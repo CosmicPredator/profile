@@ -197,9 +197,14 @@ p {
     padding-top: 0.5rem;
 }
 
+.user-input {
+    color: #08fa00;
+}
+
 .dummy-keyboard {
     opacity:0;
     filter:alpha(opacity=0);
+    caret-color: #08fa00;
 }
 
 ::-webkit-scrollbar {
