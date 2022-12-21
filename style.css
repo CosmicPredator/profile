@@ -73,6 +73,14 @@ p {
     color: rgb(61, 245, 6);
 }
 
+.column-child {
+    border-radius: 10px;
+}
+
+.terminal-window {
+    border-radius: 10px;
+}
+
 .icon, .sidebar-link {
     transition-duration: 250ms;
 }
