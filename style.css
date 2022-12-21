@@ -199,6 +199,7 @@ p {
 
 .user-input {
     color: #08fa00;
+    display: inline-block;
 }
 
 .dummy-keyboard {
